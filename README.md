@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soumya Subhakant</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **crew ai**
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript, React, Next.js, Agentic, Gen AI, LLM**
 
 - 📫 How to reach me **subhasoumya20@gmail.com**
 
