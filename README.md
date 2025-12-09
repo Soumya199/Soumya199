@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soumya Subhakant</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **crew ai**
+- 🌱 I’m currently learning **Google ADK**
 
-- 💬 Ask me about **JavaScript, React, Next.js, Agentic, Gen AI, LLM**
+- 💬 Ask me about **JavaScript, React, Next.js,Node js, Agentic, Gen AI, ADK, LLM**
 
 - 📫 How to reach me **subhasoumya20@gmail.com**
 
